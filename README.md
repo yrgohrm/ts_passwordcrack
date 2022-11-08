@@ -4,7 +4,7 @@ Files for a class in testing and security at Yrgo. These are not intended for an
 
 The "passwords" are md5($salt.$password), i.e. pretty useless if you want to keep secrets.
 
-The T0XlC ruleset comes from the Hashcat suite.
+The T0XlC and leetspeak rulesets comes from the Hashcat suite.
 
 ## Basic usage
 
